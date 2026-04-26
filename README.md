@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=200&section=header&text=Noel%20Caravaca&fontSize=52&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%94%20Fintech%20%26%20Product&descAlignY=58&descSize=17&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:1e3a8a,100:0f172a&amp;height=200&amp;section=header&amp;text=Noel%20Caravaca&amp;fontSize=52&amp;fontColor=f8fafc&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%E2%80%94%20Fintech%20%26%20Product&amp;descAlignY=58&amp;descSize=17&amp;descColor=94a3b8" width="100%"/>
 
 <br/>
 
@@ -58,28 +58,28 @@ I care about architecture that holds up in production, security that doesn't get
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ncara42/finank">finank</a></h3>
       <p>Mortgage comparison platform with automated bank data scraping, real-time alerts, lead management, and a full admin panel. End-to-end from scraper to UI.</p>
-      <img src="https://img.shields.io/badge/TypeScript-1e3a8a?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Prisma-0f172a?style=flat-square&logo=prisma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-1e3a8a?style=flat-square&amp;logo=typescript&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&amp;logo=next.js&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prisma-0f172a?style=flat-square&amp;logo=prisma&amp;logoColor=white"/>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ncara42/beana-multi">beana-multi</a></h3>
       <p>Native iOS application built with Swift and SwiftUI, targeting a multi-platform product experience.</p>
-      <img src="https://img.shields.io/badge/Swift-1e3a8a?style=flat-square&logo=swift&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SwiftUI-0f172a?style=flat-square&logo=swift&logoColor=F05138"/>
+      <img src="https://img.shields.io/badge/Swift-1e3a8a?style=flat-square&amp;logo=swift&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/SwiftUI-0f172a?style=flat-square&amp;logo=swift&amp;logoColor=F05138"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ncara42/42next-exam-trainer">42next-exam-trainer</a></h3>
       <p>CLI tool for practising 42 School exams. Clean, extensible architecture with a focus on usability and correct feedback loops.</p>
-      <img src="https://img.shields.io/badge/Python-1e3a8a?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-1e3a8a?style=flat-square&amp;logo=python&amp;logoColor=white"/>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ncara42/portfolio-noelservices">portfolio-noelservices</a></h3>
       <p>Personal portfolio and services site showcasing products and freelance work.</p>
-      <img src="https://img.shields.io/badge/TypeScript-1e3a8a?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-1e3a8a?style=flat-square&amp;logo=typescript&amp;logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&amp;logo=next.js&amp;logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -90,9 +90,9 @@ I care about architecture that holds up in production, security that doesn't get
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ncara42&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=f8fafc&text_color=94a3b8&icon_color=3b82f6&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ncara42&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=f8fafc&amp;text_color=94a3b8&amp;icon_color=3b82f6&amp;count_private=true&amp;include_all_commits=true" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncara42&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=f8fafc&text_color=94a3b8&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncara42&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=f8fafc&amp;text_color=94a3b8&amp;langs_count=6" />
 
 </div>
 
@@ -100,6 +100,6 @@ I care about architecture that holds up in production, security that doesn't get
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:1e3a8a,100:0f172a&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
